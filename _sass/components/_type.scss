@@ -7,6 +7,9 @@ p, ul {
   font-family: $font-family-base;
   margin-bottom: 20px;
 }
+ul {
+  list-style-position: inside;
+}
 h1 {
   font-size: 20px;
   font-family: $font-family-heading;
