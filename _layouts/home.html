@@ -25,18 +25,32 @@ bodyClass: page-home
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
-      {% for service in site.services %}
       <div class="col-12 col-md-4 mb-1">
         <div class="service service-summary">
           <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
-            </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+            <h2 class="service-title">Knowhow &amp; processes</h2>
+            <p>Metal removal from (waste) water, metal recovery from process and/or wastewater, wastewater treatment in general, gas cleaning</p>
           </div>
         </div>
       </div>
-      {% endfor %}
+
+      <div class="col-12 col-md-4 mb-1">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">Technologies</h2>
+            <p>Continuous or conventional ion-exchange, crossflow micro- &amp; ultra-filtration, reverse osmosis, sludge dewatering and drying, evaporation (MVR)</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-md-4 mb-1">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">Services</h2>
+            <p>Consulting, supply of turnkey installations, optimization of existing processes, process development, process automation</p>
+          </div>
+        </div>
+      </div>
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">

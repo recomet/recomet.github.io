@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: Recomet AB
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Recomet AB is specialized in solving your wastewater challenges by consulting, supply of know how and processes and turnkey installations.
+intro_image: "images/process-layout.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Recomet AB
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Recomet AB is specialized in solving your wastewater challenges by consulting, supply of know how and processes and turnkey installations.

@@ -1,33 +1,24 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Recomet AB'
 
 google_analytics_id: ""
 homepage:
   show_call_box: true
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
+  mobile: "images/logo/recomet-o.svg"
+  desktop: "images/logo/recomet-logo.svg"
   desktop_height: "36px"
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: ''
 
 seo:
-  meta_og_title: "Jekyll Serif Theme"
+  meta_og_title: "Recomet AB"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif-theme.netlify.app"
+  meta_og_url: "https://recomet.se/"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-  meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
-
-collections:
-  services:
-    output: true
-  team:
-    output: true
+  meta_og_description: "Recomet AB is specialized in solving your wastewater challenges by consulting, supply of know how and processes and turnkey installations."
 
 sass:
   indentWidth: 4
